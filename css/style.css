@@ -25,22 +25,6 @@
 }
 
 
-/* nav.menu ul{
-   list-style: none;  
-}
-
-nav.menu ul li {
-    display: inline-block;
-    margin-left: 80px;
-}
-nav.menu ul li.menu-item{
-margin-top: 40px;
-}
-nav.menu ul li a {
-    text-decoration: none;
-    color: #f6f1e8;
-} */
-
 /* FOOTER */
 .footer-container {
     background-color: #f6f1e8;
@@ -49,61 +33,9 @@ nav.menu ul li a {
     height: 100%;
 
 }
-/*
-footer {
-    padding: 10px;
-    background-color: #f6f1e8;
- color: darkgrey;
- height: 300px;
- text-align: center;
 
-}
-footer div nav ul{
-    list-style: none;
-}
-footer div nav ul li a {
-    color: darkgrey;
-    text-decoration: none;
-    
-}
-footer div {
-    width: 200px;
-    display: inline-block;
-    text-align: left;
-    
-}
-footer div.redes a {
-margin-left: 50px;
-text-decoration: none;
-
-}
-footer div.mapa {
-    width: 420px;
-    
-}
-footer div.redes {
-    width: 420px;
-    
-}
-*/
 /* NOSOTROS */
 
-section.nosotros div{
-width: 45%;
-height: 300px;
-display: inline-block;
-text-align: center;
-}
-section.nosotros div img{
-    padding-top: 50px;
-}
-section.nosotros div.textonosotros {
-padding-top: 200px;
-color: #444;
-}
-section.nosotros div p{
-   padding-left: 50px;
-}
 
 /*GALERIA*/
 
